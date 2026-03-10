@@ -1,3 +1,3 @@
 # octo-telegram!!!
 
-Just another telegram bot
+Just another telegram bot.
